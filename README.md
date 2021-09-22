@@ -1,0 +1,1 @@
+This is Bjørn Ivar's first git project!
